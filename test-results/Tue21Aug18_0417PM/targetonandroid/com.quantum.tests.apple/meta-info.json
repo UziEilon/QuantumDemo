@@ -1,0 +1,22 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "Search",
+        "groups": [
+          "apple"
+        ],
+        "name": "AppleSearch",
+        "sign": "apple.AppleSearch()[pri:0, instance:com.quantum.tests.apple@60704c]"
+      },
+      "dependsOn": [],
+      "startTime": 1534882648275,
+      "duration": 124782,
+      "result": "skip",
+      "passPer": 0.0
+    }
+  ]
+}

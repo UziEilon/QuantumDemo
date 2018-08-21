@@ -1,0 +1,48 @@
+{
+  "total": 1,
+  "pass": 0,
+  "fail": 0,
+  "skip": 1,
+  "classes": [
+    "com.quantum.tests.apple"
+  ],
+  "envInfo": {
+    "browser-desired-capabilities": {
+      "securityToken": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJzbFV4OFFBdjdVellIajd4YWstR0tTbE43UjFNSllDbC1TRVJiTlU1RFlFIn0.eyJqdGkiOiJmODcxZDYxZS0wY2UyLTQ0MjAtOWFjZi0xMzM2NDZkODg2N2QiLCJleHAiOjAsIm5iZiI6MCwiaWF0IjoxNTM0ODc4NTk3LCJpc3MiOiJodHRwczovL2F1dGgucGVyZmVjdG9tb2JpbGUuY29tL2F1dGgvcmVhbG1zL2RlbW8tcGVyZmVjdG9tb2JpbGUtY29tIiwiYXVkIjoib2ZmbGluZS10b2tlbi1nZW5lcmF0b3IiLCJzdWIiOiIzNmEwOWU4Ny0yMmZjLTRlNzAtOTE0ZS0xNmU3Nzk2NTIyODciLCJ0eXAiOiJPZmZsaW5lIiwiYXpwIjoib2ZmbGluZS10b2tlbi1nZW5lcmF0b3IiLCJub25jZSI6ImRhZWFhMDg3LTkwODYtNDk3Mi1iYjFjLWMwY2U0YzcwNDY3YiIsImF1dGhfdGltZSI6MCwic2Vzc2lvbl9zdGF0ZSI6IjkxODQxODE5LWNhODUtNDljZS1iNTkyLTFlZmJiMDMwYTA0YyIsInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJvZmZsaW5lX2FjY2VzcyIsInVtYV9hdXRob3JpemF0aW9uIl19LCJyZXNvdXJjZV9hY2Nlc3MiOnsiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwidmlldy1wcm9maWxlIl19fX0.ptPVeWVDUK0pQV8GPjB5xDSyul6Rfw0ZWh2dQi2lJgsmzZQy7xKRm0sgKftGk_Lr1L-oUxuzqaMIPosZr3hdtS0sCm7R7eyBet5FZtIKompTD4WQLBEkihrt65mkigvaL06BZjIjsouxqaa3i0kKLDb9nP8UWeXHlYI3-jQI3cNDkU9XgfNh2YuFOPHWtG0cB1xN17rGJX9-vlJxDGOCweauJInAp69zwpecSQnpxsAsS_zPvnHyuJ5Wsu3tQArhjSM7zEbdQSR3ElemU9kMq_ggtLrGOCob5Eto_eG1D8ZS2xFyVGVwCun_RNm-VhZPjYzEskGVv42ysHFnKq5iUg",
+      "password": "Perfecto123!",
+      "takesScreenshot": true,
+      "browserName": "MobileOS",
+      "javascriptEnabled": true,
+      "location": "US East",
+      "deviceName": "9887E8424E31504B58",
+      "user": "uzie@perfectomobile.com",
+      "cssSelectorsEnabled": true
+    },
+    "browser-actual-capabilities": {},
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "12",
+      "qaf-Version": "2.1",
+      "qaf-Build-Time": "06-Sep-2017 07:56:25"
+    },
+    "run-parameters": {
+      "driver.capabilities.location": "NA-US-BOS",
+      "resources": "src/main/resources/common",
+      "baseurl": "",
+      "driver.capabilities.browserName": "MobileOS",
+      "driver.capabilities.deviceName": "9887E8424E31504B58"
+    },
+    "execution-env-info": {
+      "java.arch": "64",
+      "java.vendor": "Oracle Corporation",
+      "java.version": "1.8.0_45",
+      "os.arch": "x86_64",
+      "host": "UziMac.local",
+      "os.name": "Mac OS X",
+      "user.name": "uzie",
+      "os.version": "10.13.3"
+    }
+  },
+  "startTime": 1534882773058,
+  "endTime": 1534882773064
+}

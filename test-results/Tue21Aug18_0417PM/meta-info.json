@@ -1,0 +1,21 @@
+{
+  "name": "Web Demo Suite",
+  "status": "pass",
+  "tests": [
+    "targetonandroidrandom",
+    "targetonandroidtablet",
+    "targetonSX",
+    "targetoniosbig",
+    "targetonandroid",
+    "targetChrome",
+    "targetFireFox",
+    "targetFireFoxbeta",
+    "vanguard"
+  ],
+  "total": 9,
+  "pass": 7,
+  "fail": 0,
+  "skip": 2,
+  "startTime": 1534882648153,
+  "endTime": 1534882773066
+}
